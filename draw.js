@@ -22,7 +22,8 @@ var snake;
 
     if(snake.eat(fruit)) {
       console.log("EATING")
-      fruit.pickLocation();
+      fruit.pickLocation(); 
+      
     }
 
   }, 250);
