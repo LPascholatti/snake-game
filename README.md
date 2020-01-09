@@ -5,3 +5,5 @@
 -Simple snake game experimenting with HTML and Canvas. 
 
 Missing: how the game finishes.
+
+Deployed: https://lpascholatti-snake-game.netlify.com/
