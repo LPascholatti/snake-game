@@ -47,4 +47,11 @@ function Snake() {
         break;
     }
   }
+
+  this.eat = function(fruit) {
+    if (this.x === fruit.x && this.y === fruit.y) {
+      return true;
+    }
+    return false;
+  }
 }
